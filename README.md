@@ -1,4 +1,4 @@
-# ícone Arquitetura CSS: Descomplicando os problemas Arquitetura CSS: Descomplicando os problemas
+# Descomplicando os problemas Arquitetura CSS: Descomplicando os problemas
 Com o curso aprendi a:
 
 Simplificar a organização de meus arquivos CSS.
