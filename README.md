@@ -1,2 +1,7 @@
 # ícone Arquitetura CSS: Descomplicando os problemas Arquitetura CSS: Descomplicando os problemas
-Curso de arquitetura css da Alura. 
+Com o curso aprendi a:
+
+Simplificar a organização de meus arquivos CSS.
+Criar arquiteturas CSS simples e robustas.
+Aprendi boas práticas e metodologias sobre CSS.
+Deixar meus sites responsivos.
